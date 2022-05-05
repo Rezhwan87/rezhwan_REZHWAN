@@ -1,5 +1,5 @@
 # rezhwan_REZHWAN
-#Note: HATI HATI SESI AKUNMU !
+#Note: Rezhwan KURD  !
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
 
